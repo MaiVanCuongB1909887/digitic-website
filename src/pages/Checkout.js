@@ -123,7 +123,7 @@ const Checkout = () => {
           </div>
           <div className="col-5">
             <div className="border-bottom py-4">
-              <div className="d-flex gap-10 mb-2 align-align-items-center">
+              <div className="d-flex gap-10 mb-2 align-items-center">
                 <div className="w-75 d-flex gap-10">
                   <div className="w-25 position-relative">
                     <span
