@@ -24,7 +24,7 @@ const Checkout = () => {
                   </li>
                   &nbsp; /&nbsp;
                   <li
-                    className="breadcrumb-ite total-price active"
+                    className="breadcrumb-item total-price active"
                     aria-current="page"
                   >
                     Information
